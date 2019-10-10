@@ -1,0 +1,9 @@
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 25 - Dynamical Systems\Lab 1 - Logistic Map\LogisticMap\bin\Debug\LogisticMap.exe.config
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 25 - Dynamical Systems\Lab 1 - Logistic Map\LogisticMap\bin\Debug\LogisticMap.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 25 - Dynamical Systems\Lab 1 - Logistic Map\LogisticMap\bin\Debug\LogisticMap.pdb
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 25 - Dynamical Systems\Lab 1 - Logistic Map\LogisticMap\obj\Debug\LogisticMap.csprojResolveAssemblyReference.cache
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 25 - Dynamical Systems\Lab 1 - Logistic Map\LogisticMap\obj\Debug\LogisticMap.Form1.resources
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 25 - Dynamical Systems\Lab 1 - Logistic Map\LogisticMap\obj\Debug\LogisticMap.Properties.Resources.resources
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 25 - Dynamical Systems\Lab 1 - Logistic Map\LogisticMap\obj\Debug\LogisticMap.csproj.GenerateResource.Cache
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 25 - Dynamical Systems\Lab 1 - Logistic Map\LogisticMap\obj\Debug\LogisticMap.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 25 - Dynamical Systems\Lab 1 - Logistic Map\LogisticMap\obj\Debug\LogisticMap.pdb

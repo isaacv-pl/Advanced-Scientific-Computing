@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+c:\root_v5.34.36\include\tpad.h(326): warning C4800: 'Int_t': forcing value to bool 'true' or 'false' (performance warning)
+c:\root_v5.34.36\include\tpad.h(327): warning C4800: 'Int_t': forcing value to bool 'true' or 'false' (performance warning)
+c:\root_v5.34.36\include\tpad.h(328): warning C4800: 'Int_t': forcing value to bool 'true' or 'false' (performance warning)
+c:\root_v5.34.36\include\tpad.h(384): warning C4800: 'TVirtualViewer3D *const ': forcing value to bool 'true' or 'false' (performance warning)
+  HarmonicEulerCromer.cpp
+  HarmonicEulerCromer.vcxproj -> C:\Users\SciCompStudent\Desktop\SciComp 201\Session 27 - Differential Equations\Lab 4 - Harmonic Motion - Euler-Cromer Method\Debug\HarmonicEulerCromer.exe
+  HarmonicEulerCromer.vcxproj -> C:\Users\SciCompStudent\Desktop\SciComp 201\Session 27 - Differential Equations\Lab 4 - Harmonic Motion - Euler-Cromer Method\Debug\HarmonicEulerCromer.pdb (Full PDB)

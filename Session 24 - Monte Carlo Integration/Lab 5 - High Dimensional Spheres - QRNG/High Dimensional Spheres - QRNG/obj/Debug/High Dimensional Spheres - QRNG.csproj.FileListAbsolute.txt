@@ -1,0 +1,5 @@
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 5 - High Dimensional Spheres - QRNG\High Dimensional Spheres - QRNG\bin\Debug\Lab 5 - Higher Dimension HyperSphere Volume.exe.config
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 5 - High Dimensional Spheres - QRNG\High Dimensional Spheres - QRNG\bin\Debug\Lab 5 - Higher Dimension HyperSphere Volume.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 5 - High Dimensional Spheres - QRNG\High Dimensional Spheres - QRNG\bin\Debug\Lab 5 - Higher Dimension HyperSphere Volume.pdb
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 5 - High Dimensional Spheres - QRNG\High Dimensional Spheres - QRNG\obj\Debug\Lab 5 - Higher Dimension HyperSphere Volume.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 5 - High Dimensional Spheres - QRNG\High Dimensional Spheres - QRNG\obj\Debug\Lab 5 - Higher Dimension HyperSphere Volume.pdb

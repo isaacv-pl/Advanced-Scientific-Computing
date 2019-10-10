@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  FastDealer.cpp
+c:\users\scicompstudent\desktop\scicomp 201\session 15 - random processes\lab 6 - fast dealer\fastdealer\fastdealer.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\scicompstudent\desktop\scicomp 201\session 15 - random processes\lab 6 - fast dealer\fastdealer\fastdealer.cpp(70): warning C4018: '<': signed/unsigned mismatch
+  FastDealer.vcxproj -> C:\Users\SciCompStudent\Desktop\SciComp 201\Session 15 - Random Processes\Lab 6 - Fast Dealer\Debug\FastDealer.exe
+  FastDealer.vcxproj -> C:\Users\SciCompStudent\Desktop\SciComp 201\Session 15 - Random Processes\Lab 6 - Fast Dealer\Debug\FastDealer.pdb (Full PDB)

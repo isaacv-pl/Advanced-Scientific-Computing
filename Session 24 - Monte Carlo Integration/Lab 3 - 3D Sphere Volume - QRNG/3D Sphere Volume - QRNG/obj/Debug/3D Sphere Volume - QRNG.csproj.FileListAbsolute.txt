@@ -1,0 +1,9 @@
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 3 - 3D Sphere Volume - QRNG\3D Sphere Volume - QRNG\bin\Debug\Lab 3 - 3D Sphere Volume - Niederreiter QRNG.exe.config
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 3 - 3D Sphere Volume - QRNG\3D Sphere Volume - QRNG\bin\Debug\Lab 3 - 3D Sphere Volume - Niederreiter QRNG.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 3 - 3D Sphere Volume - QRNG\3D Sphere Volume - QRNG\bin\Debug\Lab 3 - 3D Sphere Volume - Niederreiter QRNG.pdb
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 3 - 3D Sphere Volume - QRNG\3D Sphere Volume - QRNG\obj\Debug\3D Sphere Volume - QRNG.csprojResolveAssemblyReference.cache
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 3 - 3D Sphere Volume - QRNG\3D Sphere Volume - QRNG\obj\Debug\Lab_3___3D_Sphere_Volume___Niederreiter_QRNG.Form1.resources
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 3 - 3D Sphere Volume - QRNG\3D Sphere Volume - QRNG\obj\Debug\Lab_3___3D_Sphere_Volume___Niederreiter_QRNG.Properties.Resources.resources
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 3 - 3D Sphere Volume - QRNG\3D Sphere Volume - QRNG\obj\Debug\3D Sphere Volume - QRNG.csproj.GenerateResource.Cache
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 3 - 3D Sphere Volume - QRNG\3D Sphere Volume - QRNG\obj\Debug\Lab 3 - 3D Sphere Volume - Niederreiter QRNG.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 3 - 3D Sphere Volume - QRNG\3D Sphere Volume - QRNG\obj\Debug\Lab 3 - 3D Sphere Volume - Niederreiter QRNG.pdb

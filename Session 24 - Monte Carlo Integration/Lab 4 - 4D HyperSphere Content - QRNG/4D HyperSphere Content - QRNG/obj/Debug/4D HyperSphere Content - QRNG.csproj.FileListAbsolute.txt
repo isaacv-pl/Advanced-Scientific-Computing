@@ -1,0 +1,6 @@
+C:\DaveB\SciComp\SciComp 201\SciComp 201\Session 24 - Monte Carlo Integration\Lab 4 - 4D HyperSphere Content - QRNG\4D HyperSphere Content - QRNG\bin\Debug\Lab 4 - 4D HyperSphere Volume.exe.config
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 4 - 4D HyperSphere Content - QRNG\4D HyperSphere Content - QRNG\bin\Debug\Lab 4 - 4D HyperSphere Volume.exe.config
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 4 - 4D HyperSphere Content - QRNG\4D HyperSphere Content - QRNG\bin\Debug\Lab 4 - 4D HyperSphere Volume.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 4 - 4D HyperSphere Content - QRNG\4D HyperSphere Content - QRNG\bin\Debug\Lab 4 - 4D HyperSphere Volume.pdb
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 4 - 4D HyperSphere Content - QRNG\4D HyperSphere Content - QRNG\obj\Debug\Lab 4 - 4D HyperSphere Volume.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 4 - 4D HyperSphere Content - QRNG\4D HyperSphere Content - QRNG\obj\Debug\Lab 4 - 4D HyperSphere Volume.pdb

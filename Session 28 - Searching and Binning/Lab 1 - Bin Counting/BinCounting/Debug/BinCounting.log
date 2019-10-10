@@ -1,0 +1,5 @@
+﻿  BinCounting.cpp
+c:\users\scicompstudent\desktop\scicomp 201\session 28 - searching and binning\lab 1 - bin counting\bincounting\bincounting.cpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\scicompstudent\desktop\scicomp 201\session 28 - searching and binning\lab 1 - bin counting\bincounting\bincounting.cpp(89): warning C4018: '<': signed/unsigned mismatch
+  BinCounting.vcxproj -> C:\Users\SciCompStudent\Desktop\SciComp 201\Session 28 - Searching and Binning\Lab 1 - Bin Counting\Debug\BinCounting.exe
+  BinCounting.vcxproj -> C:\Users\SciCompStudent\Desktop\SciComp 201\Session 28 - Searching and Binning\Lab 1 - Bin Counting\Debug\BinCounting.pdb (Full PDB)

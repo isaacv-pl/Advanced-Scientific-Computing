@@ -1,0 +1,9 @@
+C:\Users\dbiersach\Desktop\Research\Linear Programming\LinearProgramming\LinearProgramming\bin\Debug\LinearProgramming.exe.config
+C:\Users\dbiersach\Desktop\Research\Linear Programming\LinearProgramming\LinearProgramming\bin\Debug\LinearProgramming.exe
+C:\Users\dbiersach\Desktop\Research\Linear Programming\LinearProgramming\LinearProgramming\bin\Debug\LinearProgramming.pdb
+C:\Users\dbiersach\Desktop\Research\Linear Programming\LinearProgramming\LinearProgramming\obj\Debug\LinearProgramming.csprojResolveAssemblyReference.cache
+C:\Users\dbiersach\Desktop\Research\Linear Programming\LinearProgramming\LinearProgramming\obj\Debug\LinearProgramming.exe
+C:\Users\dbiersach\Desktop\Research\Linear Programming\LinearProgramming\LinearProgramming\obj\Debug\LinearProgramming.pdb
+D:\DaveB\SciComp\Medgar Evers College\MEC SciComp - Instructor\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\LinearProgramming\bin\Debug\LinearProgramming.exe.config
+D:\DaveB\SciComp\Medgar Evers College\MEC SciComp - Instructor\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\LinearProgramming\obj\Debug\LinearProgramming.exe
+D:\DaveB\SciComp\Medgar Evers College\MEC SciComp - Instructor\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\LinearProgramming\obj\Debug\LinearProgramming.pdb

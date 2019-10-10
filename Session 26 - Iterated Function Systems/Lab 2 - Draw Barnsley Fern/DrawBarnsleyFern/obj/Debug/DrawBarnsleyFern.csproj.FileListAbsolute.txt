@@ -1,0 +1,8 @@
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 2 - Draw Barnsley Fern\DrawBarnsleyFern\bin\Debug\DrawBarnsleyFern.exe.config
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 2 - Draw Barnsley Fern\DrawBarnsleyFern\bin\Debug\DrawBarnsleyFern.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 2 - Draw Barnsley Fern\DrawBarnsleyFern\bin\Debug\DrawBarnsleyFern.pdb
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 2 - Draw Barnsley Fern\DrawBarnsleyFern\obj\Debug\DrawBarnsleyFern.Form1.resources
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 2 - Draw Barnsley Fern\DrawBarnsleyFern\obj\Debug\DrawBarnsleyFern.Properties.Resources.resources
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 2 - Draw Barnsley Fern\DrawBarnsleyFern\obj\Debug\DrawBarnsleyFern.csproj.GenerateResource.Cache
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 2 - Draw Barnsley Fern\DrawBarnsleyFern\obj\Debug\DrawBarnsleyFern.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 2 - Draw Barnsley Fern\DrawBarnsleyFern\obj\Debug\DrawBarnsleyFern.pdb

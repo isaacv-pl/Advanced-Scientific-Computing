@@ -1,0 +1,5 @@
+﻿  SlowDealer.cpp
+c:\users\scicompstudent\desktop\scicomp 201\session 15 - random processes\lab 5 - slow dealer\slowdealer\slowdealer.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\scicompstudent\desktop\scicomp 201\session 15 - random processes\lab 5 - slow dealer\slowdealer\slowdealer.cpp(94): warning C4018: '<': signed/unsigned mismatch
+  SlowDealer.vcxproj -> C:\Users\SciCompStudent\Desktop\SciComp 201\Session 15 - Random Processes\Lab 5 - Slow Dealer\Debug\SlowDealer.exe
+  SlowDealer.vcxproj -> C:\Users\SciCompStudent\Desktop\SciComp 201\Session 15 - Random Processes\Lab 5 - Slow Dealer\Debug\SlowDealer.pdb (Full PDB)

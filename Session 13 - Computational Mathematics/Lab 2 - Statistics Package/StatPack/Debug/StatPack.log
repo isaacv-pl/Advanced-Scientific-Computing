@@ -1,0 +1,4 @@
+﻿  StatPack.cpp
+c:\users\scicompstudent\desktop\scicomp 201\session 13 - computational mathematics\lab 2 - statistics package\statpack\statpack.cpp(58): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+  StatPack.vcxproj -> C:\Users\SciCompStudent\Desktop\SciComp 201\Session 13 - Computational Mathematics\Lab 2 - Statistics Package\Debug\StatPack.exe
+  StatPack.vcxproj -> C:\Users\SciCompStudent\Desktop\SciComp 201\Session 13 - Computational Mathematics\Lab 2 - Statistics Package\Debug\StatPack.pdb (Full PDB)

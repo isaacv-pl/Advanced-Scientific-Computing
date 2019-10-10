@@ -1,0 +1,9 @@
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 25 - Dynamical Systems\Lab 2 - Mandelbrot Set\MandelbrotSet\bin\Debug\MandelbrotSet.exe.config
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 25 - Dynamical Systems\Lab 2 - Mandelbrot Set\MandelbrotSet\bin\Debug\MandelbrotSet.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 25 - Dynamical Systems\Lab 2 - Mandelbrot Set\MandelbrotSet\bin\Debug\MandelbrotSet.pdb
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 25 - Dynamical Systems\Lab 2 - Mandelbrot Set\MandelbrotSet\obj\Debug\MandelbrotSet.csprojResolveAssemblyReference.cache
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 25 - Dynamical Systems\Lab 2 - Mandelbrot Set\MandelbrotSet\obj\Debug\MandelbrotSet.Form1.resources
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 25 - Dynamical Systems\Lab 2 - Mandelbrot Set\MandelbrotSet\obj\Debug\MandelbrotSet.Properties.Resources.resources
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 25 - Dynamical Systems\Lab 2 - Mandelbrot Set\MandelbrotSet\obj\Debug\MandelbrotSet.csproj.GenerateResource.Cache
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 25 - Dynamical Systems\Lab 2 - Mandelbrot Set\MandelbrotSet\obj\Debug\MandelbrotSet.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 25 - Dynamical Systems\Lab 2 - Mandelbrot Set\MandelbrotSet\obj\Debug\MandelbrotSet.pdb

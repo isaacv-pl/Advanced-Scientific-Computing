@@ -1,0 +1,9 @@
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 1 - Draw Sierpinski Triangle\DrawSierpinskiTriangle\bin\Debug\DrawSierpinskiTriangle.exe.config
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 1 - Draw Sierpinski Triangle\DrawSierpinskiTriangle\bin\Debug\DrawSierpinskiTriangle.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 1 - Draw Sierpinski Triangle\DrawSierpinskiTriangle\bin\Debug\DrawSierpinskiTriangle.pdb
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 1 - Draw Sierpinski Triangle\DrawSierpinskiTriangle\obj\Debug\DrawSierpinskiTriangle.csprojResolveAssemblyReference.cache
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 1 - Draw Sierpinski Triangle\DrawSierpinskiTriangle\obj\Debug\DrawSierpinskiTriangle.Form1.resources
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 1 - Draw Sierpinski Triangle\DrawSierpinskiTriangle\obj\Debug\DrawSierpinskiTriangle.Properties.Resources.resources
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 1 - Draw Sierpinski Triangle\DrawSierpinskiTriangle\obj\Debug\DrawSierpinskiTriangle.csproj.GenerateResource.Cache
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 1 - Draw Sierpinski Triangle\DrawSierpinskiTriangle\obj\Debug\DrawSierpinskiTriangle.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 1 - Draw Sierpinski Triangle\DrawSierpinskiTriangle\obj\Debug\DrawSierpinskiTriangle.pdb

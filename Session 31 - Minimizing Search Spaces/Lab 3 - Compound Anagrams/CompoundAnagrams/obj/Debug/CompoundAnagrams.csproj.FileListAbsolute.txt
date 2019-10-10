@@ -1,0 +1,7 @@
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 31 - Minimizing Search Spaces\Lab 3 - Compound Anagrams\CompoundAnagrams\bin\Debug\FindAnagrams.exe.config
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 31 - Minimizing Search Spaces\Lab 3 - Compound Anagrams\CompoundAnagrams\bin\Debug\english_dictionary.txt
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 31 - Minimizing Search Spaces\Lab 3 - Compound Anagrams\CompoundAnagrams\bin\Debug\FindAnagrams.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 31 - Minimizing Search Spaces\Lab 3 - Compound Anagrams\CompoundAnagrams\bin\Debug\FindAnagrams.pdb
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 31 - Minimizing Search Spaces\Lab 3 - Compound Anagrams\CompoundAnagrams\obj\Debug\CompoundAnagrams.csprojResolveAssemblyReference.cache
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 31 - Minimizing Search Spaces\Lab 3 - Compound Anagrams\CompoundAnagrams\obj\Debug\FindAnagrams.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 31 - Minimizing Search Spaces\Lab 3 - Compound Anagrams\CompoundAnagrams\obj\Debug\FindAnagrams.pdb

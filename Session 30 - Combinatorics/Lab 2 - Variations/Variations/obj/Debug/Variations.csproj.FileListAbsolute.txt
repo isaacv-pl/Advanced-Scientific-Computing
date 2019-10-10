@@ -1,0 +1,6 @@
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 30 - Combinatorics\Lab 2 - Variations\Variations\bin\Debug\Variations.exe.config
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 30 - Combinatorics\Lab 2 - Variations\Variations\bin\Debug\Variations.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 30 - Combinatorics\Lab 2 - Variations\Variations\bin\Debug\Variations.pdb
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 30 - Combinatorics\Lab 2 - Variations\Variations\obj\Debug\Variations.csprojResolveAssemblyReference.cache
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 30 - Combinatorics\Lab 2 - Variations\Variations\obj\Debug\Variations.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 30 - Combinatorics\Lab 2 - Variations\Variations\obj\Debug\Variations.pdb

@@ -1,0 +1,12 @@
+C:\DaveB\SciComp\SciComp 201\SciComp 201 - Instructor\Session 30 - Combinatorics\Lab 3 - Partitions\Partitions\bin\Debug\GeneratePartitionsRecursive.exe.config
+C:\DaveB\SciComp\SciComp 201\SciComp 201 - Instructor\Session 30 - Combinatorics\Lab 3 - Partitions\Partitions\bin\Debug\GeneratePartitionsRecursive.exe
+C:\DaveB\SciComp\SciComp 201\SciComp 201 - Instructor\Session 30 - Combinatorics\Lab 3 - Partitions\Partitions\bin\Debug\GeneratePartitionsRecursive.pdb
+C:\DaveB\SciComp\SciComp 201\SciComp 201 - Instructor\Session 30 - Combinatorics\Lab 3 - Partitions\Partitions\obj\Debug\Partitions.csprojResolveAssemblyReference.cache
+C:\DaveB\SciComp\SciComp 201\SciComp 201 - Instructor\Session 30 - Combinatorics\Lab 3 - Partitions\Partitions\obj\Debug\GeneratePartitionsRecursive.exe
+C:\DaveB\SciComp\SciComp 201\SciComp 201 - Instructor\Session 30 - Combinatorics\Lab 3 - Partitions\Partitions\obj\Debug\GeneratePartitionsRecursive.pdb
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 30 - Combinatorics\Lab 3 - Partitions\Partitions\bin\Debug\GeneratePartitionsRecursive.exe.config
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 30 - Combinatorics\Lab 3 - Partitions\Partitions\obj\Debug\GeneratePartitionsRecursive.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 30 - Combinatorics\Lab 3 - Partitions\Partitions\obj\Debug\GeneratePartitionsRecursive.pdb
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 30 - Combinatorics\Lab 3 - Partitions\Partitions\bin\Debug\GeneratePartitionsRecursive.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 30 - Combinatorics\Lab 3 - Partitions\Partitions\bin\Debug\GeneratePartitionsRecursive.pdb
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 30 - Combinatorics\Lab 3 - Partitions\Partitions\obj\Debug\Partitions.csprojResolveAssemblyReference.cache

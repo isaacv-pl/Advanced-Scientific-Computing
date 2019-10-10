@@ -1,0 +1,6 @@
+D:\DaveB\SciComp\Medgar Evers College\MEC SciComp - Instructor\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\BalanceIonicEquations\bin\Debug\LinearProgramming.exe.config
+D:\DaveB\SciComp\Medgar Evers College\MEC SciComp - Instructor\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\BalanceIonicEquations\obj\Debug\LinearProgramming.exe
+D:\DaveB\SciComp\Medgar Evers College\MEC SciComp - Instructor\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\BalanceIonicEquations\obj\Debug\LinearProgramming.pdb
+D:\DaveB\SciComp\Medgar Evers College\MEC SciComp - Instructor\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\BalanceIonicEquations\bin\Debug\LinearProgramming.exe
+D:\DaveB\SciComp\Medgar Evers College\MEC SciComp - Instructor\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\BalanceIonicEquations\bin\Debug\LinearProgramming.pdb
+D:\DaveB\SciComp\Medgar Evers College\MEC SciComp - Instructor\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\BalanceIonicEquations\obj\Debug\BalanceIonicEquations.csprojResolveAssemblyReference.cache

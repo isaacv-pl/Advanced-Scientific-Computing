@@ -1,0 +1,4 @@
+﻿  StartGap2.cpp
+c:\users\scicompstudent\desktop\scicomp 201\session 09 - instrumentation, representation\lab 2 - start gap 2\startgap2\startgap2.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  StartGap2.vcxproj -> C:\Users\SciCompStudent\Desktop\SciComp 201\Session 09 - Instrumentation, Representation\Lab 2 - Start Gap 2\Debug\StartGap2.exe
+  StartGap2.vcxproj -> C:\Users\SciCompStudent\Desktop\SciComp 201\Session 09 - Instrumentation, Representation\Lab 2 - Start Gap 2\Debug\StartGap2.pdb (Full PDB)

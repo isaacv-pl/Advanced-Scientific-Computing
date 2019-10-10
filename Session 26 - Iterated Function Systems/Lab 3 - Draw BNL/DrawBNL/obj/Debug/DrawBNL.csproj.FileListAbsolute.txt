@@ -1,0 +1,9 @@
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 3 - Draw BNL\DrawBNL\bin\Debug\DrawBNL.exe.config
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 3 - Draw BNL\DrawBNL\bin\Debug\DrawBNL.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 3 - Draw BNL\DrawBNL\bin\Debug\DrawBNL.pdb
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 3 - Draw BNL\DrawBNL\obj\Debug\DrawBNL.csprojResolveAssemblyReference.cache
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 3 - Draw BNL\DrawBNL\obj\Debug\DrawBNL.Form1.resources
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 3 - Draw BNL\DrawBNL\obj\Debug\DrawBNL.Properties.Resources.resources
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 3 - Draw BNL\DrawBNL\obj\Debug\DrawBNL.csproj.GenerateResource.Cache
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 3 - Draw BNL\DrawBNL\obj\Debug\DrawBNL.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 26 - Iterated Function Systems\Lab 3 - Draw BNL\DrawBNL\obj\Debug\DrawBNL.pdb

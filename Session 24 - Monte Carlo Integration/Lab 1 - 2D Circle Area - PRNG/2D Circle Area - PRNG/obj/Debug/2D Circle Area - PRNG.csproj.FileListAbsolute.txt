@@ -1,0 +1,9 @@
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 1 - 2D Circle Area - PRNG\2D Circle Area - PRNG\bin\Debug\Lab 1 - 2D Circle Area - Monte Carlo.exe.config
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 1 - 2D Circle Area - PRNG\2D Circle Area - PRNG\bin\Debug\Lab 1 - 2D Circle Area - Monte Carlo.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 1 - 2D Circle Area - PRNG\2D Circle Area - PRNG\bin\Debug\Lab 1 - 2D Circle Area - Monte Carlo.pdb
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 1 - 2D Circle Area - PRNG\2D Circle Area - PRNG\obj\Debug\2D Circle Area - PRNG.csprojResolveAssemblyReference.cache
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 1 - 2D Circle Area - PRNG\2D Circle Area - PRNG\obj\Debug\Lab_1___2D_Circle_Area___Monte_Carlo.Form1.resources
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 1 - 2D Circle Area - PRNG\2D Circle Area - PRNG\obj\Debug\Lab_1___2D_Circle_Area___Monte_Carlo.Properties.Resources.resources
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 1 - 2D Circle Area - PRNG\2D Circle Area - PRNG\obj\Debug\2D Circle Area - PRNG.csproj.GenerateResource.Cache
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 1 - 2D Circle Area - PRNG\2D Circle Area - PRNG\obj\Debug\Lab 1 - 2D Circle Area - Monte Carlo.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 1 - 2D Circle Area - PRNG\2D Circle Area - PRNG\obj\Debug\Lab 1 - 2D Circle Area - Monte Carlo.pdb

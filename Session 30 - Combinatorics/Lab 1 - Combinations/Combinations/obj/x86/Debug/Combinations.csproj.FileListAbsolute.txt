@@ -1,0 +1,34 @@
+c:\gcp\Combinations\Combinations\bin\Debug\Combinations.exe
+c:\gcp\Combinations\Combinations\bin\Debug\Combinations.pdb
+c:\gcp\Combinations\Combinations\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\gcp\Combinations\Combinations\obj\x86\Debug\Combinations.exe
+c:\gcp\Combinations\Combinations\obj\x86\Debug\Combinations.pdb
+C:\Dev\Combinations\Combinations\obj\x86\Debug\Combinations.exe
+C:\Dev\Combinations\Combinations\obj\x86\Debug\Combinations.pdb
+C:\Dev\Combinations\Combinations\bin\Debug\Combinations.exe
+C:\Dev\Combinations\Combinations\bin\Debug\Combinations.pdb
+C:\Dev\Combinations\Combinations\obj\x86\Debug\Combinations.csprojResolveAssemblyReference.cache
+D:\daveb\Dev\Combinations\Combinations\obj\x86\Debug\Combinations.exe
+D:\daveb\Dev\Combinations\Combinations\obj\x86\Debug\Combinations.pdb
+D:\daveb\Dev\Combinations\Combinations\bin\Debug\Combinations.exe
+D:\daveb\Dev\Combinations\Combinations\bin\Debug\Combinations.pdb
+D:\daveb\Dev\Combinations\Combinations\obj\x86\Debug\Combinations.csprojResolveAssemblyReference.cache
+C:\Users\dbiersach\Desktop\Research\Combinations & Permutations\Combinations\Combinations\obj\x86\Debug\Combinations.exe
+C:\Users\dbiersach\Desktop\Research\Combinations & Permutations\Combinations\Combinations\obj\x86\Debug\Combinations.pdb
+C:\DaveB\Research\Combinations & Permutations\Combinations\Combinations\obj\x86\Debug\Combinations.exe
+C:\DaveB\Research\Combinations & Permutations\Combinations\Combinations\obj\x86\Debug\Combinations.pdb
+C:\DaveB\Research\Combinations & Permutations\Combinations\Combinations\bin\Debug\Combinations.exe
+C:\DaveB\Research\Combinations & Permutations\Combinations\Combinations\bin\Debug\Combinations.pdb
+C:\DaveB\Research\Combinations & Permutations\Combinations\Combinations\obj\x86\Debug\Combinations.csprojResolveAssemblyReference.cache
+C:\DaveB\SciComp\SciComp 201\SciComp 201 - Instructor\Session 30 - Combinatorics\Combinations\Combinations\obj\x86\Debug\Combinations.exe
+C:\DaveB\SciComp\SciComp 201\SciComp 201 - Instructor\Session 30 - Combinatorics\Combinations\Combinations\obj\x86\Debug\Combinations.pdb
+C:\DaveB\SciComp\SciComp 201\SciComp 201 - Instructor\Session 30 - Combinatorics\Lab 1 - Combinations\Combinations\obj\x86\Debug\Combinations.exe
+C:\DaveB\SciComp\SciComp 201\SciComp 201 - Instructor\Session 30 - Combinatorics\Lab 1 - Combinations\Combinations\obj\x86\Debug\Combinations.pdb
+C:\DaveB\SciComp\SciComp 201\SciComp 201 - Instructor\Session 30 - Combinatorics\Lab 1 - Combinations\Combinations\bin\Debug\Combinations.exe
+C:\DaveB\SciComp\SciComp 201\SciComp 201 - Instructor\Session 30 - Combinatorics\Lab 1 - Combinations\Combinations\bin\Debug\Combinations.pdb
+C:\DaveB\SciComp\SciComp 201\SciComp 201 - Instructor\Session 30 - Combinatorics\Lab 1 - Combinations\Combinations\obj\x86\Debug\Combinations.csprojResolveAssemblyReference.cache
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 30 - Combinatorics\Lab 1 - Combinations\Combinations\obj\x86\Debug\Combinations.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 30 - Combinatorics\Lab 1 - Combinations\Combinations\obj\x86\Debug\Combinations.pdb
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 30 - Combinatorics\Lab 1 - Combinations\Combinations\bin\Debug\Combinations.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 30 - Combinatorics\Lab 1 - Combinations\Combinations\bin\Debug\Combinations.pdb
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 30 - Combinatorics\Lab 1 - Combinations\Combinations\obj\x86\Debug\Combinations.csprojResolveAssemblyReference.cache

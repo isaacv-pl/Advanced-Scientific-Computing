@@ -1,0 +1,9 @@
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 23 - Countour Interpolation\Lab 1 - Inverse Distance Weighting\DrawSampledData\bin\Debug\DrawSampledData.exe.config
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 23 - Countour Interpolation\Lab 1 - Inverse Distance Weighting\DrawSampledData\bin\Debug\DrawSampledData.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 23 - Countour Interpolation\Lab 1 - Inverse Distance Weighting\DrawSampledData\bin\Debug\DrawSampledData.pdb
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 23 - Countour Interpolation\Lab 1 - Inverse Distance Weighting\DrawSampledData\obj\Debug\InverseDistanceWeighting.csprojResolveAssemblyReference.cache
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 23 - Countour Interpolation\Lab 1 - Inverse Distance Weighting\DrawSampledData\obj\Debug\InverseDistanceWeighting.Form1.resources
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 23 - Countour Interpolation\Lab 1 - Inverse Distance Weighting\DrawSampledData\obj\Debug\InverseDistanceWeighting.Properties.Resources.resources
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 23 - Countour Interpolation\Lab 1 - Inverse Distance Weighting\DrawSampledData\obj\Debug\InverseDistanceWeighting.csproj.GenerateResource.Cache
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 23 - Countour Interpolation\Lab 1 - Inverse Distance Weighting\DrawSampledData\obj\Debug\DrawSampledData.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 23 - Countour Interpolation\Lab 1 - Inverse Distance Weighting\DrawSampledData\obj\Debug\DrawSampledData.pdb

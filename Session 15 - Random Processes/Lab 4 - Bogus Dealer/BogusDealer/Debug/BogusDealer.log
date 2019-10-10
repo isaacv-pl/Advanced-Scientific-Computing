@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  BogusDealer.cpp
+c:\users\scicompstudent\desktop\scicomp 201\session 15 - random processes\lab 4 - bogus dealer\bogusdealer\bogusdealer.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\scicompstudent\desktop\scicomp 201\session 15 - random processes\lab 4 - bogus dealer\bogusdealer\bogusdealer.cpp(53): warning C4018: '<': signed/unsigned mismatch
+  BogusDealer.vcxproj -> C:\Users\SciCompStudent\Desktop\SciComp 201\Session 15 - Random Processes\Lab 4 - Bogus Dealer\Debug\BogusDealer.exe
+  BogusDealer.vcxproj -> C:\Users\SciCompStudent\Desktop\SciComp 201\Session 15 - Random Processes\Lab 4 - Bogus Dealer\Debug\BogusDealer.pdb (Full PDB)

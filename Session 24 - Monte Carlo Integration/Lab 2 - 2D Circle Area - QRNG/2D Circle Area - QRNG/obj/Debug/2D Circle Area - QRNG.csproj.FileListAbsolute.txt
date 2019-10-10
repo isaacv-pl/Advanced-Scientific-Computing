@@ -1,0 +1,8 @@
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 2 - 2D Circle Area - QRNG\2D Circle Area - QRNG\bin\Debug\Lab 2 - 2D Circle Area - Niederreiter QRNG.exe.config
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 2 - 2D Circle Area - QRNG\2D Circle Area - QRNG\bin\Debug\Lab 2 - 2D Circle Area - Niederreiter QRNG.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 2 - 2D Circle Area - QRNG\2D Circle Area - QRNG\bin\Debug\Lab 2 - 2D Circle Area - Niederreiter QRNG.pdb
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 2 - 2D Circle Area - QRNG\2D Circle Area - QRNG\obj\Debug\Lab_2___2D_Circle_Area___Niederreiter_QRNG.Form1.resources
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 2 - 2D Circle Area - QRNG\2D Circle Area - QRNG\obj\Debug\Lab_2___2D_Circle_Area___Niederreiter_QRNG.Properties.Resources.resources
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 2 - 2D Circle Area - QRNG\2D Circle Area - QRNG\obj\Debug\2D Circle Area - QRNG.csproj.GenerateResource.Cache
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 2 - 2D Circle Area - QRNG\2D Circle Area - QRNG\obj\Debug\Lab 2 - 2D Circle Area - Niederreiter QRNG.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 24 - Monte Carlo Integration\Lab 2 - 2D Circle Area - QRNG\2D Circle Area - QRNG\obj\Debug\Lab 2 - 2D Circle Area - Niederreiter QRNG.pdb

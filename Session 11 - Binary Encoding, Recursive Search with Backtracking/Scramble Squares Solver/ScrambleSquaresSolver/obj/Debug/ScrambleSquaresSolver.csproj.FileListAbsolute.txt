@@ -1,0 +1,6 @@
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 11 - Binary Encoding, Recursive Search with Backtracking\Scramble Squares Solver\ScrambleSquaresSolver\bin\Debug\ScrambleSquaresSolver.exe.config
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 11 - Binary Encoding, Recursive Search with Backtracking\Scramble Squares Solver\ScrambleSquaresSolver\bin\Debug\ScrambleSquaresSolver.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 11 - Binary Encoding, Recursive Search with Backtracking\Scramble Squares Solver\ScrambleSquaresSolver\bin\Debug\ScrambleSquaresSolver.pdb
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 11 - Binary Encoding, Recursive Search with Backtracking\Scramble Squares Solver\ScrambleSquaresSolver\obj\Debug\ScrambleSquaresSolver.csprojResolveAssemblyReference.cache
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 11 - Binary Encoding, Recursive Search with Backtracking\Scramble Squares Solver\ScrambleSquaresSolver\obj\Debug\ScrambleSquaresSolver.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 11 - Binary Encoding, Recursive Search with Backtracking\Scramble Squares Solver\ScrambleSquaresSolver\obj\Debug\ScrambleSquaresSolver.pdb

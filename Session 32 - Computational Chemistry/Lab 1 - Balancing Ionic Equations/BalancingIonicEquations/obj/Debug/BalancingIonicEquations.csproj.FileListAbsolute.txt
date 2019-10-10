@@ -1,0 +1,27 @@
+D:\DaveB\SciComp\Medgar Evers College\MEC SciComp - Instructor\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\BalancingIonicEquations\bin\Debug\BalancingIonicEquations.exe.config
+D:\DaveB\SciComp\Medgar Evers College\MEC SciComp - Instructor\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\BalancingIonicEquations\bin\Debug\BalancingIonicEquations.exe
+D:\DaveB\SciComp\Medgar Evers College\MEC SciComp - Instructor\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\BalancingIonicEquations\bin\Debug\BalancingIonicEquations.pdb
+D:\DaveB\SciComp\Medgar Evers College\MEC SciComp - Instructor\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\BalancingIonicEquations\obj\Debug\BalancingIonicEquations.csprojResolveAssemblyReference.cache
+D:\DaveB\SciComp\Medgar Evers College\MEC SciComp - Instructor\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\BalancingIonicEquations\obj\Debug\BalancingIonicEquations.exe
+D:\DaveB\SciComp\Medgar Evers College\MEC SciComp - Instructor\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\BalancingIonicEquations\obj\Debug\BalancingIonicEquations.pdb
+D:\DaveB\SciComp\Medgar Evers College\MEC SciComp\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\BalancingIonicEquations\bin\Debug\BalancingIonicEquations.exe.config
+D:\DaveB\SciComp\Medgar Evers College\MEC SciComp\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\BalancingIonicEquations\obj\Debug\BalancingIonicEquations.exe
+D:\DaveB\SciComp\Medgar Evers College\MEC SciComp\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\BalancingIonicEquations\obj\Debug\BalancingIonicEquations.pdb
+D:\DaveB\SciComp\Medgar Evers College\MEC SciComp\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\BalancingIonicEquations\bin\Debug\BalancingIonicEquations.exe
+D:\DaveB\SciComp\Medgar Evers College\MEC SciComp\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\BalancingIonicEquations\bin\Debug\BalancingIonicEquations.pdb
+D:\DaveB\SciComp\Medgar Evers College\MEC SciComp\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\BalancingIonicEquations\obj\Debug\BalancingIonicEquations.csprojResolveAssemblyReference.cache
+C:\DaveB\SciComp\Medgar Evers College\MEC SciComp - Student\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\BalancingIonicEquations\bin\Debug\BalancingIonicEquations.exe.config
+C:\DaveB\SciComp\Medgar Evers College\MEC SciComp - Student\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\BalancingIonicEquations\obj\Debug\BalancingIonicEquations.exe
+C:\DaveB\SciComp\Medgar Evers College\MEC SciComp - Student\Session 07 - Focus on Biology and Chemistry\Lab 4 - Balancing Ionic Equations\BalancingIonicEquations\obj\Debug\BalancingIonicEquations.pdb
+C:\DaveB\SciComp\SciComp 201\SciComp 201\Session 32 - Computational Chemistry\Lab 1 - Balancing Ionic Equations\BalancingIonicEquations\bin\Debug\BalancingIonicEquations.exe.config
+C:\DaveB\SciComp\SciComp 201\SciComp 201\Session 32 - Computational Chemistry\Lab 1 - Balancing Ionic Equations\BalancingIonicEquations\obj\Debug\BalancingIonicEquations.exe
+C:\DaveB\SciComp\SciComp 201\SciComp 201\Session 32 - Computational Chemistry\Lab 1 - Balancing Ionic Equations\BalancingIonicEquations\obj\Debug\BalancingIonicEquations.pdb
+C:\DaveB\SciComp\SciComp 201\SciComp 201\Session 32 - Computational Chemistry\Lab 1 - Balancing Ionic Equations\BalancingIonicEquations\bin\Debug\BalancingIonicEquations.exe
+C:\DaveB\SciComp\SciComp 201\SciComp 201\Session 32 - Computational Chemistry\Lab 1 - Balancing Ionic Equations\BalancingIonicEquations\bin\Debug\BalancingIonicEquations.pdb
+C:\DaveB\SciComp\SciComp 201\SciComp 201\Session 32 - Computational Chemistry\Lab 1 - Balancing Ionic Equations\BalancingIonicEquations\obj\Debug\BalancingIonicEquations.csprojResolveAssemblyReference.cache
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 32 - Computational Chemistry\Lab 1 - Balancing Ionic Equations\BalancingIonicEquations\bin\Debug\BalancingIonicEquations.exe.config
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 32 - Computational Chemistry\Lab 1 - Balancing Ionic Equations\BalancingIonicEquations\obj\Debug\BalancingIonicEquations.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 32 - Computational Chemistry\Lab 1 - Balancing Ionic Equations\BalancingIonicEquations\obj\Debug\BalancingIonicEquations.pdb
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 32 - Computational Chemistry\Lab 1 - Balancing Ionic Equations\BalancingIonicEquations\bin\Debug\BalancingIonicEquations.exe
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 32 - Computational Chemistry\Lab 1 - Balancing Ionic Equations\BalancingIonicEquations\bin\Debug\BalancingIonicEquations.pdb
+C:\Users\SciCompStudent\Desktop\SciComp 201\Session 32 - Computational Chemistry\Lab 1 - Balancing Ionic Equations\BalancingIonicEquations\obj\Debug\BalancingIonicEquations.csprojResolveAssemblyReference.cache
